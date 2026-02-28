@@ -29,3 +29,9 @@ router.delete("/admin/users/:id", protect, authorize("admin"), deleteUser);
 router.put("/admin/users/:id/password", protect, authorize("admin"), changeUserPassword);
 
 export default router;
+
+//Senith
+
+//Feb 28
+
+//newww
